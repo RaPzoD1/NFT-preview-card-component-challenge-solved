@@ -25,9 +25,11 @@ Users should be able to:
 ### Screenshot
 
 Desktop
+
 ![image](https://user-images.githubusercontent.com/25336634/152091574-7c14add7-83b8-4181-89d1-3dbb28ad5f68.png)
 
 mobile
+
 ![image](https://user-images.githubusercontent.com/25336634/152091662-304ca5d0-aef7-46c4-bd81-e1d7dbd4d8c3.png)
 
 ### Links
