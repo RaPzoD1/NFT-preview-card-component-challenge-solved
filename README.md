@@ -35,7 +35,7 @@ mobile
 ### Links
 
 - Solution URL: [github](https://github.com/RaPzoD1/NFT-preview-card-component-challenge-solved)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://keen-hoover-e3b2d6.netlify.app/)
 
 ## My process
 
